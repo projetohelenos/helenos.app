@@ -14,7 +14,11 @@
 
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+     	<item name="android:textViewStyle">@style/AppTheme.Widget.TextView</item>
     </style>
+    
+    <style name="AppTheme.Widget.TextView" parent="android:Widget.Holo.Light.TextView">
+   		<item name="android:fontFamily">fonts/Roboto-Light.ttf</item>
+	</style>
 
 </resources>

@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HelenosAPP</string>
+    <string name="app_name">Helenos\nApp</string>
+    <string name="txt_acessar">Acessar</string>
+    <string name="hint_login">usuário</string>
+    <string name="hint_senha">senha</string>
+    <string name="title_activity_main">MainActivity</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    
+    
+     <!-- DRAWER LAYOUT -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
 
 </resources>
